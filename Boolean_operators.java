@@ -13,7 +13,7 @@ class Main {
     System.out.println(12/4 != 3);
     
     // Declare the bool variable type of boolean, and assign the result of 3 * 9 == 27 to it
-    boolean bool = (3*9 = 27);
+    boolean bool = (3*9 == 27);
     
     
     // Print the value of the bool variable
